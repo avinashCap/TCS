@@ -2,7 +2,7 @@ package tcs;
 
 public class B {
     public static void main(String[] args) {
-        System.out.println("**********");
-        System.out.println("mmmmmmmmmmmm");
+        System.out.println("BBBBBBBBBBBBB");
+    
     }
 }
